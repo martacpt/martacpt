@@ -1,6 +1,6 @@
 Hi, I’m @martacpt, but you can call me Marta! 
 
-I'm passionate about data (data analysis, data science, ML) and FullStack Programming (JavaScript, CSS, MongoDB, Bootstrap, Express, NodeJS, among others)!  
+I'm a Financial Analyst and I am passionate about data analysis (mostly with Python) and Fullstack webdev (JavaScript, CSS, MongoDB, Bootstrap, Express, NodeJS, among others)!  
 
 If you need help or looking for contributions, reach out!
 
